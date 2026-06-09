@@ -455,7 +455,7 @@ div.con-det-info-content div{
     height: 4.5rem;
     width: 4.5rem;
     border-radius: 50%;
-    background:var(--con-det-i-bg-clr);
+    background:var(--btn-bg-light-clr);
     color: var(--btn-bg-clr);
 }
 
